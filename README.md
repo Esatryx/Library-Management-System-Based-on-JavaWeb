@@ -1,6 +1,6 @@
 # javaweb-图书管理系统
 技术栈:
-Mybatis Thymeleaf Lombok Servlet
+Mybatis Thymeleaf Lombok Servlet Html+CSS+JavaScript
 使用了Tomcat10作为本地服务器 Maven配置项目
 实现功能：
 - 图书管理员的登陆和退出（只有登陆之后才能进入管理页面）
