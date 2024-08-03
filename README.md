@@ -7,3 +7,4 @@ Mybatis Thymeleaf Lombok Servlet Html+CSS+JavaScript
 - 图书的列表浏览（包括书籍是否被借出的状态也要进行显示）以及图书的添加和删除
 - 学生的列表浏览
 - 查看所有的借阅列表，添加借阅信息
+<img width="1239" alt="3380088856d7191d6507ec9242447d6" src="https://github.com/user-attachments/assets/64838290-5fbe-4257-a105-5bf9d7587269">
